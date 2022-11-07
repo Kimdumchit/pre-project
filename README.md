@@ -15,14 +15,6 @@
 ### Frontend
 
 김민상, 정규식, 고정훈, 김은비
-    <tr>
-      <td align="center"><a href="https://github.com/minsang98"><img src="https://avatars.githubusercontent.com/u/64800318?v=4" width="100px;" alt=""/><br /><sub><b>
-minsang98</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/starplanter93"><img src="https://avatars.githubusercontent.com/u/107591946?v=4" width="100px;" alt=""/><br /><sub><b>starplanter93</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/e5lina"><img src="https://avatars.githubusercontent.com/u/107910301?v=4" width="100px;" alt=""/><br /><sub><b>
-e5lina</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Aurora-in-Wonderland"><img src="https://avatars.githubusercontent.com/u/99107568?v=4" width="100px;" alt=""/><br /><sub><b>Aurora-in-Wonderland</b></sub></a><br /></td>
-    </tr>
 <br/>
 
 ### Backend
